@@ -1,49 +1,278 @@
 ,Tracks,Artists,Albums,URLs
-0,1984,Mauve Lyrics,others,/lyrics/mauve/1984.html
-1,Another You,Mauve Lyrics,others,/lyrics/mauve/anotheryou.html
-2,By My Side,Mauve Lyrics,others,/lyrics/mauve/bymyside.html
-3,Chill With You,Mauve Lyrics,others,/lyrics/mauve/chillwithyou.html
-4,Come With Me,Mauve Lyrics,others,/lyrics/mauve/comewithme.html
-5,Easy To Adore You,Mauve Lyrics,others,/lyrics/mauve/easytoadoreyou.html
-6,Falling,Mauve Lyrics,others,/lyrics/mauve/falling.html
-7,Golden Days,Mauve Lyrics,others,/lyrics/mauve/goldendays.html
-8,Hearts,Mauve Lyrics,others,/lyrics/mauve/hearts.html
-9,Here Comes The Sun,Mauve Lyrics,others,/lyrics/mauve/herecomesthesun.html
-10,I Miss You,Mauve Lyrics,others,/lyrics/mauve/imissyou.html
-11,In Love Late At Night,Mauve Lyrics,others,/lyrics/mauve/inlovelateatnight.html
-12,In The Morning,Mauve Lyrics,others,/lyrics/mauve/inthemorning.html
-13,In The Rain,Mauve Lyrics,others,/lyrics/mauve/intherain.html
-14,Into The Sun,Mauve Lyrics,others,/lyrics/mauve/intothesun.html
-15,Just Stay,Mauve Lyrics,others,/lyrics/mauve/juststay.html
-16,Last Train Home,Mauve Lyrics,others,/lyrics/mauve/lasttrainhome.html
-17,Light In Your Shadow,Mauve Lyrics,others,/lyrics/mauve/lightinyourshadow.html
-18,Light The Night,Mauve Lyrics,others,/lyrics/mauve/lightthenight.html
-19,Lighthouse,Mauve Lyrics,others,/lyrics/mauve/lighthouse.html
-20,Like A Dream,Mauve Lyrics,others,/lyrics/mauve/likeadream.html
-21,Live A Life You Will Remember,Mauve Lyrics,others,/lyrics/mauve/livealifeyouwillremember.html
-22,Lost & Found,Mauve Lyrics,others,/lyrics/mauve/lostfound.html
-23,Love Letters,Mauve Lyrics,others,/lyrics/mauve/loveletters.html
-24,Love So Hardcore,Mauve Lyrics,others,/lyrics/mauve/lovesohardcore.html
-25,Malibu,Mauve Lyrics,others,/lyrics/mauve/malibu.html
-26,Miracles,Mauve Lyrics,others,/lyrics/mauve/miracles.html
-27,Nightsky,Mauve Lyrics,others,/lyrics/mauve/nightsky.html
-28,Not Alone,Mauve Lyrics,others,/lyrics/mauve/notalone.html
-29,On My Mind,Mauve Lyrics,others,/lyrics/mauve/onmymind.html
-30,Peace Of Mind,Mauve Lyrics,others,/lyrics/mauve/peaceofmind.html
-31,Running Through The Night,Mauve Lyrics,others,/lyrics/mauve/runningthroughthenight.html
-32,So Good,Mauve Lyrics,others,/lyrics/mauve/sogood.html
-33,Somebody Like You,Mauve Lyrics,others,/lyrics/mauve/somebodylikeyou.html
-34,Summer Stars,Mauve Lyrics,others,/lyrics/mauve/summerstars.html
-35,Sweet Child O' Mine,Mauve Lyrics,others,/lyrics/mauve/sweetchildomine.html
-36,Take Me Dancing,Mauve Lyrics,others,/lyrics/mauve/takemedancing.html
-37,Tell The Truth,Mauve Lyrics,others,/lyrics/mauve/tellthetruth.html
-38,Thank You,Mauve Lyrics,others,/lyrics/mauve/thankyou.html
-39,The River,Mauve Lyrics,others,/lyrics/mauve/theriver.html
-40,The Sun,Mauve Lyrics,others,/lyrics/mauve/thesun.html
-41,Travel,Mauve Lyrics,others,/lyrics/mauve/travel.html
-42,Upside Down,Mauve Lyrics,others,/lyrics/mauve/upsidedown.html
-43,Use A Wish,Mauve Lyrics,others,/lyrics/mauve/useawish.html
-44,Wake Up With You,Mauve Lyrics,others,/lyrics/mauve/wakeupwithyou.html
-45,Walk Alone,Mauve Lyrics,others,/lyrics/mauve/walkalone.html
-46,When The Sun Goes Down,Mauve Lyrics,others,/lyrics/mauve/whenthesungoesdown.html
-47,Your Words,Mauve Lyrics,others,/lyrics/mauve/yourwords.html
+0,Rhinestone,Linkin Park Lyrics,"demo: ""Xero"" (1997)(as Xero)",/lyrics/linkinpark/rhinestone.html
+1,Reading My Eyes,Linkin Park Lyrics,"demo: ""Xero"" (1997)(as Xero)",/lyrics/linkinpark/readingmyeyes.html
+2,Fuse,Linkin Park Lyrics,"demo: ""Xero"" (1997)(as Xero)",/lyrics/linkinpark/fuse.html
+3,Stick N Move,Linkin Park Lyrics,"demo: ""Xero"" (1997)(as Xero)",/lyrics/linkinpark/sticknmove.html
+4,Carousel,Linkin Park Lyrics,"EP: ""Hybrid Theory"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/carousel.html
+5,Technique (Short),Linkin Park Lyrics,"EP: ""Hybrid Theory"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/techniqueshort.html
+6,Step Up,Linkin Park Lyrics,"EP: ""Hybrid Theory"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/stepup.html
+7,And One,Linkin Park Lyrics,"EP: ""Hybrid Theory"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/andone.html
+8,High Voltage,Linkin Park Lyrics,"EP: ""Hybrid Theory"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/highvoltageepversion.html
+9,Part Of Me,Linkin Park Lyrics,"EP: ""Hybrid Theory"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/partofme.html
+10,Untitled,Linkin Park Lyrics,"demo: ""Hybrid Theory 8-Track Demo"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/untitled.html
+11,Super Xero (By Myself Demo),Linkin Park Lyrics,"demo: ""Hybrid Theory 8-Track Demo"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/superxero.html
+12,Points And Authority (Demo),Linkin Park Lyrics,"demo: ""Hybrid Theory 8-Track Demo"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/pointsandauthoritydemo.html
+13,"Crawling (Demo, Edit)",Linkin Park Lyrics,"demo: ""Hybrid Theory 8-Track Demo"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/crawlingdemoedit.html
+14,She Couldnt,Linkin Park Lyrics,"demo: ""Hybrid Theory 8-Track Demo"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/shecouldnt.html
+15,Carousel (Demo),Linkin Park Lyrics,"demo: ""Hybrid Theory 8-Track Demo"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/carouseldemo.html
+16,Part Of Me (Demo),Linkin Park Lyrics,"demo: ""Hybrid Theory 8-Track Demo"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/partofmedemo.html
+17,And One,Linkin Park Lyrics,"demo: ""Hybrid Theory 8-Track Demo"" (1999)(as Hybrid Theory)",/lyrics/linkinpark/andone.html
+18,Papercut,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/papercut.html
+19,One Step Closer,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/onestepcloser.html
+20,With You,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/withyou.html
+21,Points Of Authority,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/pointsofauthority.html
+22,Crawling,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/crawling.html
+23,Runaway,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/runaway.html
+24,By Myself,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/bymyself.html
+25,In The End,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/intheend.html
+26,A Place For My Head,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/aplaceformyhead.html
+27,Forgotten,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/forgotten.html
+28,Cure For The Itch,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/curefortheitch.html
+29,Pushing Me Away,Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/pushingmeaway.html
+30,High Voltage(Bonus Track),Linkin Park Lyrics,"album: ""Hybrid Theory"" (2000)",/lyrics/linkinpark/highvoltage.html
+31,Pts.Of.Athrty,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/ptsofathrty.html
+32,Enth E Nd,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/enthend.html
+33,Chali,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/chali.html
+34,Frgt/10,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/frgt10.html
+35,P5hng Me A*wy,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/p5hngmeawy.html
+36,Plc.4 Mie Haed,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/plc4miehaed.html
+37,X-Ecutioner Style,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/xecutionerstyle.html
+38,H! Vltg3,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/hvltg3.html
+39,Riff Raff,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/riffraff.html
+40,Wth>You,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/wthyou.html
+41,PPr:Kut,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/pprkut.html
+42,Rnw@y,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/rnwy.html
+43,My<Dsmbr,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/mydsmbr.html
+44,Stef,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/stef.html
+45,By_Myslf,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/bymyslf.html
+46,Kyur4 Th Ich,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/kyur4thich.html
+47,1stp Klosr,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/1stpklosr.html
+48,Krwlng,Linkin Park Lyrics,"album: ""Reanimation"" (2002)",/lyrics/linkinpark/krwlng.html
+49,Foreword(Instrumental),Linkin Park Lyrics,"album: ""Meteora"" (2003)",
+50,Dont Stay,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/dontstay.html
+51,Somewhere I Belong,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/somewhereibelong.html
+52,Lying From You,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/lyingfromyou.html
+53,Hit The Floor,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/hitthefloor.html
+54,Easier To Run,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/easiertorun.html
+55,Faint,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/faint.html
+56,Figure.09,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/figure09.html
+57,Breaking The Habit,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/breakingthehabit.html
+58,From The Inside,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/fromtheinside.html
+59,Nobodys Listening,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/nobodyslistening.html
+60,Session(Instrumental),Linkin Park Lyrics,"album: ""Meteora"" (2003)",
+61,Numb,Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/numb.html
+62,Standing In The Middle(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/standinginthemiddle.html
+63,Lost(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/lost.html
+64,Fighting Myself(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/fightingmyself.html
+65,More The Victim(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/morethevictim.html
+66,Massive(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/massive.html
+67,Healing Foot(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/healingfoot.html
+68,A6 (Meteora20 Demo)(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/a6meteora20demo.html
+69,"Cuidado (Lying From You Demo)(20th Anniversary Edition Bonus Track, Instrumental)",Linkin Park Lyrics,"album: ""Meteora"" (2003)",
+70,Husky (Hit The Floor Demo)(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/huskyhitthefloordemo.html
+71,"Interrogation (Easier To Run Demo)(20th Anniversary Edition Bonus Track, Instrumental)",Linkin Park Lyrics,"album: ""Meteora"" (2003)",
+72,Faint (Meteora20 Demo)(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/faintmeteora20demo.html
+73,Plaster 2 (Figure.09 Demo)(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/plaster2figure09demo.html
+74,Shifter (From The Inside Demo)(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/shifterfromtheinsidedemo.html
+75,"Wesside(20th Anniversary Edition Bonus Track, Instrumental)",Linkin Park Lyrics,"album: ""Meteora"" (2003)",
+76,Resolution(20th Anniversary Edition Bonus Track),Linkin Park Lyrics,"album: ""Meteora"" (2003)",/lyrics/linkinpark/resolution.html
+77,Dirt Off Your Shoulder / Lying From You,Linkin Park Lyrics,"EP: ""Collision Course"" (2004)(with Jay-Z)",/lyrics/linkinpark/dirtoffyourshoulderlyingfromyou.html
+78,Big Pimpin / Papercut,Linkin Park Lyrics,"EP: ""Collision Course"" (2004)(with Jay-Z)",/lyrics/linkinpark/bigpimpinpapercut.html
+79,Jigga What / Faint,Linkin Park Lyrics,"EP: ""Collision Course"" (2004)(with Jay-Z)",/lyrics/linkinpark/jiggawhatfaint.html
+80,Numb / Encore,Linkin Park Lyrics,"EP: ""Collision Course"" (2004)(with Jay-Z)",/lyrics/linkinpark/numbencore.html
+81,Izzo / In The End,Linkin Park Lyrics,"EP: ""Collision Course"" (2004)(with Jay-Z)",/lyrics/linkinpark/izzointheend.html
+82,Points Of Authority / 99 Problems / One Step Closer,Linkin Park Lyrics,"EP: ""Collision Course"" (2004)(with Jay-Z)",/lyrics/linkinpark/pointsofauthority99problemsonestepcloser.html
+83,Wake(Instrumental),Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",
+84,Given Up,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/givenup.html
+85,Leave Out All The Rest,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/leaveoutalltherest.html
+86,Bleed It Out,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/bleeditout.html
+87,Shadow Of The Day,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/shadowoftheday.html
+88,What Ive Done,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/whativedone.html
+89,Hands Held High,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/handsheldhigh.html
+90,No More Sorrow,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/nomoresorrow.html
+91,Valentines Day,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/valentinesday.html
+92,In Between,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/inbetween.html
+93,In Pieces,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/inpieces.html
+94,The Little Things Give You Away,Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/thelittlethingsgiveyouaway.html
+95,No Roads Left(B-side),Linkin Park Lyrics,"album: ""Minutes To Midnight"" (2007)",/lyrics/linkinpark/noroadsleft.html
+96,You Aint Gotsta Gotsta,Linkin Park Lyrics,"EP: ""Underground 8 (MMM...COOKIES: Sweet Hamster Like Jewels From America!)"" (2008)",/lyrics/linkinpark/youaintgotstagotsta.html
+97,Bubbles,Linkin Park Lyrics,"EP: ""Underground 8 (MMM...COOKIES: Sweet Hamster Like Jewels From America!)"" (2008)",/lyrics/linkinpark/bubbles.html
+98,No Laundry,Linkin Park Lyrics,"EP: ""Underground 8 (MMM...COOKIES: Sweet Hamster Like Jewels From America!)"" (2008)",/lyrics/linkinpark/nolaundry.html
+99,Da Bloos,Linkin Park Lyrics,"EP: ""Underground 8 (MMM...COOKIES: Sweet Hamster Like Jewels From America!)"" (2008)",/lyrics/linkinpark/dabloos.html
+100,PB N Jellyfish,Linkin Park Lyrics,"EP: ""Underground 8 (MMM...COOKIES: Sweet Hamster Like Jewels From America!)"" (2008)",/lyrics/linkinpark/pbnjellyfish.html
+101,26 Lettaz In Da Alphabet,Linkin Park Lyrics,"EP: ""Underground 8 (MMM...COOKIES: Sweet Hamster Like Jewels From America!)"" (2008)",/lyrics/linkinpark/26lettazindaalphabet.html
+102,A-Six (Original Long Version 2002)(Instrumental),Linkin Park Lyrics,"demo: ""Underground 9: Demos"" (2009)",
+103,Faint (2002 Demo),Linkin Park Lyrics,"demo: ""Underground 9: Demos"" (2009)",/lyrics/linkinpark/faint2002demo.html
+104,Sad (By Myself 1999 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground 9: Demos"" (2009)",
+105,Fear (Leave Out All The Rest 2002 Demo),Linkin Park Lyrics,"demo: ""Underground 9: Demos"" (2009)",/lyrics/linkinpark/fearleaveoutalltherest2002demo.html
+106,Figure.09 (2002 Demo),Linkin Park Lyrics,"demo: ""Underground 9: Demos"" (2009)",/lyrics/linkinpark/figure092002demo.html
+107,Stick And Move (Runaway 1998 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground 9: Demos"" (2009)",
+108,Across The Line (Unreleased 2007 Demo),Linkin Park Lyrics,"demo: ""Underground 9: Demos"" (2009)",/lyrics/linkinpark/acrossthelineunreleased2007demo.html
+109,Drawing (Breaking The Habit 2002 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground 9: Demos"" (2009)",
+110,Drum Song (Little Things Give You Away 2006 Demo),Linkin Park Lyrics,"demo: ""Underground 9: Demos"" (2009)",/lyrics/linkinpark/drumsonglittlethingsgiveyouaway2006demo.html
+111,Announcement Service Public,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/announcementservicepublic.html
+112,Qwerty,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/qwerty.html
+113,And One,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/andone.html
+114,Sold My Soul To Yo Mama,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/soldmysoultoyomama.html
+115,Dedicated,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/dedicated.html
+116,Hunger Strike,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/hungerstrike.html
+117,My December,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/mydecember.html
+118,Part Of Me,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/partofme.html
+119,Across The Line,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/acrosstheline.html
+120,Pretend To Be,Linkin Park Lyrics,"compilation: ""A Decade Underground"" (2010)",/lyrics/linkinpark/pretendtobe.html
+121,The Requiem,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/therequiem.html
+122,The Radiance,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/theradiance.html
+123,Burning In The Skies,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/burningintheskies.html
+124,Empty Spaces(Instrumental),Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",
+125,When They Come For Me,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/whentheycomeforme.html
+126,Robot Boy,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/robotboy.html
+127,Jornada Del Muerto,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/jornadadelmuerto.html
+128,Waiting For The End,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/waitingfortheend.html
+129,Blackout,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/blackout.html
+130,Wretches And Kings,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/wretchesandkings.html
+131,"Wisdom, Justice And Love",Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/wisdomjusticeandlove.html
+132,Iridescent,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/iridescent.html
+133,Fallout,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/fallout.html
+134,The Catalyst,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/thecatalyst.html
+135,The Messenger,Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/themessenger.html
+136,Blackbirds(2013 iTunes Deluxe Edition Bonus Track),Linkin Park Lyrics,"album: ""A Thousand Suns"" (2010)",/lyrics/linkinpark/blackbirds.html
+137,Unfortunate (2002 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",
+138,What We Dont Know (2007 Demo),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",/lyrics/linkinpark/whatwedontknow2007demo.html
+139,Oh No (Points Of Authority Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",
+140,I Have Not Begun (2009 Demo),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",/lyrics/linkinpark/ihavenotbegun2009demo.html
+141,Pale (2006 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",
+142,Pretend To Be (2008 Demo),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",/lyrics/linkinpark/pretendtobe2008demo.html
+143,Divided (2005 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",
+144,What Ive Done (Mike Shinoda Remix),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",/lyrics/linkinpark/whativedonemikeshinodaremix.html
+145,Coal (1997 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",
+146,Halo (2002 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground X: Demos"" (2010)",
+147,YO (MTM Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",
+148,Slip (1998 Unreleased Hybrid Theory Demo),Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",/lyrics/linkinpark/slip1998unreleasedhybridtheorydemo.html
+149,Soundtrack (Meteora Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",
+150,In The End (Demo),Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",/lyrics/linkinpark/intheenddemo217408.html
+151,Program (Meteora Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",
+152,Bang Three (What Ive Done Original Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",
+153,"Robot Boy (Test Mix, Option Vocal Take)",Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",/lyrics/linkinpark/robotboytestmixoptionvocaltake.html
+154,Broken Foot (Meteora Demo)(Instrumental),Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",
+155,Esaul (A Place For My Head Demo),Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",/lyrics/linkinpark/esaulaplaceformyheaddemo217413.html
+156,Blue (1998 Unreleased Hybrid Theory Demo),Linkin Park Lyrics,"demo: ""Underground Eleven"" (2011)",/lyrics/linkinpark/blue1998unreleasedhybridtheorydemo.html
+157,Lost In The Echo,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/lostintheecho.html
+158,In My Remains,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/inmyremains.html
+159,Burn It Down,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/burnitdown.html
+160,Lies Greed Misery,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/liesgreedmisery.html
+161,Ill Be Gone,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/illbegone.html
+162,Castle Of Glass,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/castleofglass.html
+163,Victimized,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/victimized.html
+164,Roads Untraveled,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/roadsuntraveled.html
+165,Skin To Bone,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/skintobone.html
+166,Until It Breaks,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/untilitbreaks.html
+167,Tinfoil(Instrumental),Linkin Park Lyrics,"album: ""Living Things"" (2012)",
+168,Powerless,Linkin Park Lyrics,"album: ""Living Things"" (2012)",/lyrics/linkinpark/powerless.html
+169,Homecoming (Minutes To Midnight Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",
+170,Points Of Authority (Demo),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",/lyrics/linkinpark/pointsofauthoritydemo.html
+171,Clarity (Minutes To Midnight Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",
+172,Asbestos (Minutes To Midnight Demo),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",/lyrics/linkinpark/asbestosminutestomidnightdemo.html
+173,Bunker (Minutes To Midnight Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",
+174,So Far Away (Unreleased 1998),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",/lyrics/linkinpark/sofarawayunreleased1998.html
+175,Pepper (Meteora Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",
+176,Debris (Minutes To Midnight Demo),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",/lyrics/linkinpark/debrisminutestomidnightdemo.html
+177,Ominous (Meteora Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",
+178,Forgotten (Demo),Linkin Park Lyrics,"demo: ""LP Underground 12.0"" (2012)",/lyrics/linkinpark/forgottendemo.html
+179,A Light That Never Comes,Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/alightthatnevercomes.html
+180,Castle Of Glass (M. Shinoda Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/castleofglassmshinodaremix.html
+181,Lost In The Echo (Killsonik Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/lostintheechokillsonikremix.html
+182,Victimized (M. Shinoda Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/victimizedmshinodaremix.html
+183,Ill Be Gone (Vice Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/illbegoneviceremix.html
+184,Lies Greed Misery (Dirtyphonics Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/liesgreedmiserydirtyphonicsremix.html
+185,Roads Untraveled (Rad Omen Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/roadsuntraveledradomenremix.html
+186,Powerless (Enferno Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/powerlessenfernoremix.html
+187,Burn It Down (Tom Swoon Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/burnitdowntomswoonremix.html
+188,Until It Breaks (Datsik Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/untilitbreaksdatsikremix.html
+189,Skin To Bone (Nick Catchdubs Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/skintobonenickcatchdubsremix.html
+190,Ill Be Gone (Schoolboy Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/illbegoneschoolboyremix.html
+191,Until It Breaks (Money Mark Headphone Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/untilitbreaksmoneymarkheadphoneremix.html
+192,A Light That Never Comes (Rick Rubin Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/alightthatnevercomesrickrubinremix.html
+193,Burn It Down (Paul Van Dyk Remix),Linkin Park Lyrics,"remix album: ""Recharged"" (2013)",/lyrics/linkinpark/burnitdownpaulvandykremix.html
+194,"Primo (Ill Be Gone, Longform 2010 Demo)",Linkin Park Lyrics,"demo: ""LP Underground XIII"" (2013)(LPU XIII)",/lyrics/linkinpark/primoillbegonelongform2010demo.html
+195,"Apaches (Until It Breaks Demo, No. 1)",Linkin Park Lyrics,"demo: ""LP Underground XIII"" (2013)(LPU XIII)",/lyrics/linkinpark/apachesuntilitbreaksdemono1.html
+196,"Foot Patrol (Until It Breaks Demo, No. 2)",Linkin Park Lyrics,"demo: ""LP Underground XIII"" (2013)(LPU XIII)",/lyrics/linkinpark/footpatroluntilitbreaksdemono2.html
+197,"Three Band Terror (Until It Breaks, No. 3)",Linkin Park Lyrics,"demo: ""LP Underground XIII"" (2013)(LPU XIII)",/lyrics/linkinpark/threebandterroruntilitbreaksno3.html
+198,"Change (By Beta State, LPU Sessions 2013)",Linkin Park Lyrics,"demo: ""LP Underground XIII"" (2013)(LPU XIII)",/lyrics/linkinpark/changebybetastatelpusessions2013.html
+199,Keys To The Kingdom,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/keystothekingdom.html
+200,All For Nothing,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/allfornothing.html
+201,Guilty All The Same,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/guiltyallthesame.html
+202,The Summoning(Instrumental),Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",
+203,War,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/war.html
+204,Wastelands,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/wastelands.html
+205,Until Its Gone,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/untilitsgone.html
+206,Rebellion,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/rebellion.html
+207,Mark The Graves,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/markthegraves.html
+208,Drawbar(Instrumental),Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",
+209,Final Masquerade,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/finalmasquerade.html
+210,A Line In The Sand,Linkin Park Lyrics,"album: ""The Hunting Party"" (2014)",/lyrics/linkinpark/alineinthesand.html
+211,Breaking The Habit (Original Mike 2002 Demo),Linkin Park Lyrics,"demo: ""LP Underground XIV"" (2014)(LPU XIV)",/lyrics/linkinpark/breakingthehabitoriginalmike2002demo.html
+212,Dave Sbeat,Linkin Park Lyrics,"demo: ""LP Underground XIV"" (2014)(LPU XIV)",/lyrics/linkinpark/davesbeat.html
+213,White Noise,Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",/lyrics/linkinpark/whitenoise.html
+214,Jeff Walks(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+215,Mall Blueprint(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+216,Jeff Makes Observations(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+217,Mal Rx7(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+218,Barrys Story(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+219,Changing Room Tease(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+220,Danny In Police Car - Mal Gears Up(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+221,Mal Gives Barry Second Chance - Mal Unloads(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+222,Mall Carnage - Mal Stalked(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+223,It Goes Through,Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",/lyrics/linkinpark/itgoesthrough.html
+224,Cops Arrive(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+225,Dannys Lucky Day(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+226,Jeff Philosophizes To Donna(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+227,Jeff And Donna Connect(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+228,Jeff Trips In The Mirror(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+229,Adele And Danny In The Backseat(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+230,Mal Vs. Helicopter(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+231,Devils Drop,Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",/lyrics/linkinpark/devilsdrop.html
+232,TV Comes To Life - Mal And Jeff(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+233,The Last Line,Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",/lyrics/linkinpark/thelastline.html
+234,Danny Goes Home(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+235,Dancer(Instrumental),Linkin Park Lyrics,"soundtrack: ""Mall"" (2014)(with ALEC PURO)",
+236,Animals (2011 Demo),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",/lyrics/linkinpark/animals2011demo.html
+237,Basil (2008 Demo),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",/lyrics/linkinpark/basil2008demo.html
+238,Pods 1 Of 3 (1998 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",
+239,Pods 2 Of 3 (1998 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",
+240,Pods 3 Of 3 (1998 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",
+241,Chance Of Rain (2006 Demo),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",/lyrics/linkinpark/chanceofrain2006demo.html
+242,TooLeGit (2010 Demo),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",/lyrics/linkinpark/toolegit2010demo.html
+243,Grudgematch (2009 Demo),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",/lyrics/linkinpark/grudgematch2009demo.html
+244,Hurry (1999 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",
+245,GRR (1999 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",
+246,Attached (2003 Demo)(Instrumental),Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",
+247,"Chair (1999 ""Part Of Me"" Demo)(Instrumental)",Linkin Park Lyrics,"demo: ""LP Underground 15"" (2015)",
+248,The Catalyst (2010 Demo),Linkin Park Lyrics,"EP: ""Underground Sixteen"" (2016)",/lyrics/linkinpark/thecatalyst2010demo.html
+249,Bleed It Out (2007 Demo),Linkin Park Lyrics,"EP: ""Underground Sixteen"" (2016)",/lyrics/linkinpark/bleeditout2007demo.html
+250,Lies Greed Misery (2010 Demo),Linkin Park Lyrics,"EP: ""Underground Sixteen"" (2016)",/lyrics/linkinpark/liesgreedmisery2010demo.html
+251,Nobody Can Save Me,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/nobodycansaveme.html
+252,Good Goodbye,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/goodgoodbye.html
+253,Talking To Myself,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/talkingtomyself.html
+254,Battle Symphony,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/battlesymphony.html
+255,Invisible,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/invisible.html
+256,Heavy,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/heavy.html
+257,Sorry For Now,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/sorryfornow.html
+258,Halfway Right,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/halfwayright.html
+259,One More Light,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/onemorelight.html
+260,Sharp Edges,Linkin Park Lyrics,"album: ""One More Light"" (2017)",/lyrics/linkinpark/sharpedges.html
+261,Could Have Been,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/couldhavebeen.html
+262,Dialate (Xero Demo),Linkin Park Lyrics,other songs:,/lyrics/linkinpark/dialatexerodemo.html
+263,Its Going Down,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/itsgoingdown.html
+264,Looking For An Answer,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/lookingforananswer.html
+265,"New Divide(from ""Transformers: Revenge Of The Fallen"" soundtrack)",Linkin Park Lyrics,other songs:,/lyrics/linkinpark/newdivide.html
+266,Not Alone,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/notalone.html
+267,One More Light (Steve Aoki Chester Forever Remix),Linkin Park Lyrics,other songs:,/lyrics/linkinpark/onemorelightsteveaokichesterforeverremix.html
+268,Pictureboard,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/pictureboard.html
+269,Rolling In The Deep,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/rollinginthedeep.html
+270,Starting To Fly,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/startingtofly.html
+271,Stick N Move (Demo),Linkin Park Lyrics,other songs:,/lyrics/linkinpark/sticknmovedemo.html
+272,"System(from ""Queen Of The Damned"" soundtrack)",Linkin Park Lyrics,other songs:,/lyrics/linkinpark/system.html
+273,Vertical Limit,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/verticallimit.html
+274,Walking Dead,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/walkingdead.html
+275,What Are You Worth?,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/whatareyouworth.html
+276,Wish,Linkin Park Lyrics,other songs:,/lyrics/linkinpark/wish.html
