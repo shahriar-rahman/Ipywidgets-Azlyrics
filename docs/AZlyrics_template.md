@@ -7,11 +7,13 @@
 | artist_path | |
 | created_at | |
 | updated_at | |
+
 ### SQLITE_SEQUENCE
 |Column|Description|
 | :-: | :-: |
 | name | |
 | seq | |
+
 ### ALBUMS
 |Column|Description|
 | :-: | :-: |
@@ -21,6 +23,7 @@
 | artist_id | |
 | created_at | |
 | updated_at | |
+
 ### TRACKS
 |Column|Description|
 | :-: | :-: |
@@ -33,3 +36,4 @@
 | album_id | |
 | created_at | |
 | updated_at | |
+
