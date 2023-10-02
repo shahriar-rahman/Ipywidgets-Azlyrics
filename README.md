@@ -33,7 +33,7 @@ This project focuses on scraping music metadata and storing in a SQLite database
 
 </br>
 
-### • Repository Explorer
+### • Repository Organization
 - [database [contains stored data]](./database)
 - [docs [documentation folders]](./docs)
 - [files [project related files]](./files)
