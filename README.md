@@ -1,8 +1,7 @@
 # Ipywidgets Azlyrics
 ## Work in Progress..
 
-### To do:
-- [ ] More Code improvements.
+[!alt text](https://github.com/shahriar-rahman/Ipywidgets-Azlyrics/blob/master/files/img/bg_1.jpg)
 
 
 </br>
