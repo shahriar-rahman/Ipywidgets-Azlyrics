@@ -53,6 +53,11 @@ This project focuses on scraping music metadata and storing in a SQLite database
 
 </br></br>
 
+## Entity-Relationship Diagram (ERD)
+![alt text](https://github.com/shahriar-rahman/Ipywidgets-Azlyrics/blob/master/files/ERD/ERD_azlyrics.png)
+
+</br></br>
+
 ## ◘ Technologies
 1. Python 3.11
 2. Jupyter Notebooks
