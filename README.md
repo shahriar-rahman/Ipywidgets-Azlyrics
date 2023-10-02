@@ -6,7 +6,21 @@ This project focuses on scraping music metadata and storing in a SQLite database
 
 </br></br>
 
-## ◘ Objectives
+## ◘ Navigation
+- [Objectives](#-objectives)
+- [Database Specifications](#-database-specifications)
+- [Entity-Relationship Diagram (ERD)](#-entity-relationship-diagram-(erd))
+- [Technologies](#-technologies)
+- [Packages](#-packages)
+- [Installation](#-installation)
+- [Resources](#-resources)
+- [License](#-license)
+  
+</br>
+
+## ◘ Technical Description
+
+### • Objectives
 * Crawl the page and scrape target data.
 * Store in the database.
 * Using interactive widgets, select tracks to view the meta data including albums, lyrics, year, and so forth.
@@ -14,7 +28,7 @@ This project focuses on scraping music metadata and storing in a SQLite database
 
 </br></br>
 
-## ◘ Database Specifications
+### • Database Specifications
 ### Artists
 | Column | Description |
 | :-: | :-: |
@@ -53,18 +67,20 @@ This project focuses on scraping music metadata and storing in a SQLite database
 
 </br></br>
 
-## Entity-Relationship Diagram (ERD)
+## • Entity-Relationship Diagram (ERD)
 ![alt text](https://github.com/shahriar-rahman/Ipywidgets-Azlyrics/blob/master/files/ERD/ERD_azlyrics.png)
 
 </br></br>
 
-## ◘ Technologies
+## ◘ Requisites
+
+### • Technologies
 1. Python 3.11
 2. Jupyter Notebooks
 
 <br/>
 
-## ◘ Packages
+### • Packages
 1. db-sqlite3==0.0.1
 2. bs4==0.0.1
 3. requests==2.28.1
@@ -73,7 +89,7 @@ This project focuses on scraping music metadata and storing in a SQLite database
 
 </br></br>
 
-## ◘ Installation
+### • Installation
 By ensuring the correct directory, the `pwd` command can be used to check: `.../Ipywidgets-Azlyrics`.
 The `ls` command returns the following:
 
@@ -87,7 +103,7 @@ Execute the Jupyter cells sequentially in the script called *main* that utilizes
 
 </br></br>
 
-## ◘ Resources
+### • Resources
 For more details, visit the following links:
 * [sqlite3](https://www.sqlite.org/index.html)
 * [sqlite3 Python](https://docs.python.org/3/library/sqlite3.html)
@@ -98,7 +114,8 @@ For more details, visit the following links:
 
 <br/><br/>
 
-## ◘ MIT License
+## ◘ License
+### • MIT License
 Copyright (c) 2023 Shahriar Rahman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
