@@ -1,5 +1,5 @@
 # Azlyrics Discography
-This project focuses on scraping Music metadata and storing in a SQLite database for inspection using interactive Jupyter-Widgets from the [Azlyrics page](https://azlyrics.com/).
+This project focuses on scraping music metadata and storing in a SQLite database for inspection using interactive Jupyter-Widgets from the [Azlyrics page](https://azlyrics.com/).
 
 ![alt text](https://github.com/shahriar-rahman/Ipywidgets-Azlyrics/blob/master/files/img/bg.jpg)\
 ['Retro cassette tape with small flower' by Elijah O'Donnell](https://www.pexels.com/photo/retro-cassette-tape-with-small-flower-5588391/)  |  [Pexels Licensed](https://www.pexels.com/)
