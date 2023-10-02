@@ -31,11 +31,9 @@ This project focuses on scraping music metadata and storing in a SQLite database
 * Using interactive widgets, select tracks to view the meta data including albums, lyrics, year, and so forth.
 * Update the database accordingly.
 
-</br></br>
+</br>
 
-</br></br>
-
-## ◘ Repository Organization
+### • Repository Organization
 - [database](./database)
 - [docs](./docs)
 - [files](./files)
@@ -43,6 +41,7 @@ This project focuses on scraping music metadata and storing in a SQLite database
 - [LICENSE](./LICENSE)
 - [README.md](./README.md)
 
+</br></br>
 
 ## ◘ Database Specifications
 ### • Generated Tables
@@ -82,7 +81,7 @@ This project focuses on scraping music metadata and storing in a SQLite database
 | created_at | Date of creation. |
 | updated_at | Date of update. |
 
-</br></br>
+</br>
 
 ### • ERD
 ![alt text](https://github.com/shahriar-rahman/Ipywidgets-Azlyrics/blob/master/files/ERD/ERD_azlyrics.png)
@@ -105,7 +104,7 @@ This project focuses on scraping music metadata and storing in a SQLite database
 4. ipywidgets==7.7.1
 5. numpy==1.23.5
 
-</br></br>
+</br>
 
 ### • Installation
 By ensuring the correct directory, the `pwd` command can be used to check: `.../Ipywidgets-Azlyrics`.
@@ -119,7 +118,7 @@ data/  README.md  scrape_artists.py
 Execute the Jupyter cells sequentially in the script called *main* that utilizes BeautifulSoup to save all artists names in the database.
    * The output file is: `azlyrics.db` inside the `database` directory.
 
-</br></br>
+</br>
 
 ### • Resources
 For more details, visit the following links:
