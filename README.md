@@ -9,7 +9,9 @@ This project focuses on scraping music metadata and storing in a SQLite database
 ## ◘ Navigation
 - [Technical Description](#-technical-description)
   - [Objectives](#-objectives)
-  - [Database Specifications](#-database-specifications)
+  - [Repository Organization](#-repository-organization)
+- [Database Specifications](#-database-specifications)
+  - [Generated Tables](#-generated-tables)
   - [Entity-Relationship Diagram](#-erd)
 - [Requisites](#-requisites)
   - [Technologies](#-technologies)
@@ -31,7 +33,19 @@ This project focuses on scraping music metadata and storing in a SQLite database
 
 </br></br>
 
-### • Database Specifications
+</br></br>
+
+## ◘ Repository Organization
+- [database](./database)
+- [docs](./docs)
+- [files](./files)
+- [src](./src)
+- [LICENSE](./LICENSE)
+- [README.md](./README.md)
+
+
+## ◘ Database Specifications
+### • Generated Tables
 ### Artists
 | Column | Description |
 | :-: | :-: |
@@ -70,17 +84,9 @@ This project focuses on scraping music metadata and storing in a SQLite database
 
 </br></br>
 
-## • ERD
+### • ERD
 ![alt text](https://github.com/shahriar-rahman/Ipywidgets-Azlyrics/blob/master/files/ERD/ERD_azlyrics.png)
 
-</br></br>
-
-- [database](./database)
-- [docs](./docs)
-- [files](./files)
-- [src](./src)
-- [LICENSE](./LICENSE)
-- [README.md](./README.md)
 
 </br></br>
 
