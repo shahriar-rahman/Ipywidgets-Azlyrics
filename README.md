@@ -112,7 +112,7 @@ The `ls` command returns the following:
 
 ```bash
 $ ls                          
-data/  README.md  scrape_artists.py                
+data/  README.md  artist_scraping.py                
 ```
 
 Execute the Jupyter cells sequentially in the script called *main* that utilizes BeautifulSoup to save all artists names in the database.
