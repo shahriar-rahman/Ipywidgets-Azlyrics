@@ -9,7 +9,7 @@ This project focuses on scraping music metadata and storing in a SQLite database
 ## ◘ Navigation
 - [Technical Description](#-technical-description)
   - [Objectives](#-objectives)
-  - [Repository Explorer](#-repository-explorer)
+  - [Repository Organization](#-repository-organization)
 - [Database Specifications](#-database-specifications)
   - [Generated Tables](#-generated-tables)
   - [Entity-Relationship Diagram](#-erd)
