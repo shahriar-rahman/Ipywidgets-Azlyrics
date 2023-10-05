@@ -1,2 +1,7 @@
 beautifulsoup4==4.11.1
 numpy==1.23.5
+ipywidgets==7.7.1
+pendulum==2.1.2
+ipython==8.10.0
+pandas==2.0.3
+mysql-connector-python==8.1.0
