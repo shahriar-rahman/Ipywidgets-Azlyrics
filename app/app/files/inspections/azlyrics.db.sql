@@ -1,0 +1,1 @@
+select * from tracks where artist_id=12420
