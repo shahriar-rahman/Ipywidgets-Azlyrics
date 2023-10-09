@@ -22,4 +22,4 @@ services:
     ports:
       - "3307:3306" # Map host port 3306 to container port 3306
     volumes:
-      - ./app:/app/database/mysql_data/var/lib/mysql # Mount a directory for MySQL data storage
+      - ./app/app/database:/var/lib/mysql # Mount a directory for MySQL data storage
