@@ -1,0 +1,25 @@
+version: '3'
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile.jupyter # Path to the new Dockerfile
+    container_name: jupyter-container
+    ports:
+      - "8888:8888" # Map host port 8888 to container port 8888
+    volumes:
+      - ./app/app:/home/jovyan/work # Mount a directory for Jupyter notebooks
+    command: start-notebook.sh --NotebookApp.token=''
+
+  mysql:
+    image: mysql:8.1.0
+    container_name: mysql-container
+    environment:
+      MYSQL_ROOT_PASSWORD: user
+      MYSQL_DATABASE: azlyrics_mysql
+      MYSQL_USER: user
+      MYSQL_PASSWORD: user
+    ports:
+      - "3307:3306" # Map host port 3306 to container port 3306
+    volumes:
+      - ./app:/app/database/mysql_data/var/lib/mysql # Mount a directory for MySQL data storage

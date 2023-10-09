@@ -1,0 +1,7 @@
+FROM jupyter/base-notebook:latest
+
+COPY ./requirements.txt /home/jovyan/requirements.txt
+
+RUN pip install --no-cache-dir -r /home/jovyan/requirements.txt
+
+CMD ["start-notebook.sh", "--NotebookApp.token=''"]
